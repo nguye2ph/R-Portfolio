@@ -1,3 +1,3 @@
 https://rpubs.com/peternguyenuc
 
-![RPub Photo](images/r-pub.png)
+![RPub Photo](images/r-pub.jpeg)
